@@ -69,16 +69,16 @@ The e2e tests are using Protractor and Jasmine.
 
 [License](LICENSE.txt)
 
-# Steps I have done and all the screenshots and link of application
+# Steps I Have Completed with Screenshots and Application Link
 
-## Front-End Link
+## Front-End Application Link
 
 - **UI Link**: [http://longdhh-udagram.s3-website-us-east-1.amazonaws.com](http://longdhh-udagram.s3-website-us-east-1.amazonaws.com)
-  - Note: Use Microsoft Edge to open this link. Chrome may automatically redirect from HTTP to HTTPS, causing access issues.
+  - Note: Please use Microsoft Edge to access this link. Google Chrome might automatically redirect from HTTP to HTTPS, which can cause access issues.
 
 ## Screenshots
 
-- **Last Successful CircleCI Build**:
+- **Most Recent Successful CircleCI Build**:
   1. Build Phase:
      ![build.png](/screenshot/build.png)
   2. Hold Phase:
@@ -87,13 +87,13 @@ The e2e tests are using Protractor and Jasmine.
      ![deploy.png](/screenshot/deploy.png)
 - **AWS RDS Overview**:
   ![RDS](/screenshot/RDS.png)
-- **S3**:
+- **S3 Bucket**:
   ![s3](/screenshot/s3.png)
-- **Elastic Beanstalk**:
+- **Elastic Beanstalk Environment**:
   ![elastic-beanstalk](/screenshot/elastic-beanstalk.png)
-- **Environment Variables in CircleCI**:
+- **CircleCI Environment Variables**:
   ![env](/screenshot/env.png)
-- **Home Page**:
+- **Application Home Page**:
   ![home-page](/screenshot/home-page.png)
-- **Home Page Register**:
+- **User Registration Page**:
   ![register](/screenshot/register.png)
